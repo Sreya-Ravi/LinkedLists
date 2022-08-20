@@ -1,5 +1,5 @@
 // -------------------------------------------------
-// PS0: Multiply2NosGivenAsLLs
+// PS1: Multiply2NosGivenAsLLs
 // -------------------------------------------------
 
 // LINK: https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1
